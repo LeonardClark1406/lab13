@@ -1,0 +1,13 @@
+.carousel-item img {
+  height: 600px;
+  object-fit: cover;
+}
+.col-5 {
+  text-align: center;
+}
+.col-2 {
+  text-align: center;
+}
+.row {
+  padding-top: 170px;
+}
